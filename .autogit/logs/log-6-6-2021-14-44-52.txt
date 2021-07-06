@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jul 06 2021 14:44:52 GMT+0200 (Central Africa Time)
+------------------------------------------------------
+
+Modified files:
+* bookmarks/account/__pycache__/urls.cpython-37.pyc
+* bookmarks/account/urls.py
+* bookmarks/bookmarks/__pycache__/settings.cpython-37.pyc
+* bookmarks/bookmarks/settings.py
+* bookmarks/db.sqlite3
+
+
+Created files:
+* .autogit/logs/log-6-6-2021-14-14-46.txt
+
+
+Deleted files:
+
+
+Renamed files:
