@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jul 06 2021 13:07:55 GMT+0200 (Central Africa Time)
+------------------------------------------------------
+
+Modified files:
+* bookmarks/account/__pycache__/urls.cpython-37.pyc
+* bookmarks/account/urls.py
+* bookmarks/db.sqlite3
+
+
+Created files:
+* .autogit/logs/log-6-6-2021-12-37-50.txt
+* bookmarks/account/templates/registration/password_change_done.html
+* bookmarks/account/templates/registration/password_change_form.html
+
+
+Deleted files:
+
+
+Renamed files:
